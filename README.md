@@ -1,7 +1,7 @@
 ##  Hello! I'm Jagriti 👋
- I can code in:
+ 
 <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/39877917-8a53-44ee-9807-ee2e2e794dc1" />
-<img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/5ca7154a-eb13-4c2d-a1c8-c520a18792c9" />
+
 <img width="213" height="236" alt="image" src="https://github.com/user-attachments/assets/c685bfe1-d78e-4001-a1d0-c19ba6e9da21" />
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9c8dde7c-3c13-4f23-9966-a565baa1d65a" />
 
