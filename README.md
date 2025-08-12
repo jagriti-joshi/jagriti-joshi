@@ -1,5 +1,8 @@
 ##  Hello! I'm Jagriti 👋
 **I CAN CODE IN:**
+
+ 
+
  
 <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/39877917-8a53-44ee-9807-ee2e2e794dc1" />
 
