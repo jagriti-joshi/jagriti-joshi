@@ -1,15 +1,11 @@
 ##  Hello! I'm Jagriti 👋
-**I CAN CODE IN:**
+**I CAN CODE IN**
+
 
  
 
- ![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=white&label=)
-![C](https://img.shields.io/badge/-?style=for-the-badge&logo=c&logoColor=white&label=)
-![HTML5](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&label=)
-![CSS3](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&label=)
-![Adobe Photoshop](https://img.shields.io/badge/-?style=for-the-badge&logo=adobephotoshop&logoColor=white&label=)
 
-
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/69d1700f-0560-4bda-88c6-01af439829bd" />
 
 
 <!--
