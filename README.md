@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/39877917-8a53-44ee-9807-ee2e2e794dc1" />
 
 <!--
 **jagriti-joshi/jagriti-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
