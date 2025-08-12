@@ -3,12 +3,12 @@
 
  
 
- 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+ ![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=white&label=)
+![C](https://img.shields.io/badge/-?style=for-the-badge&logo=c&logoColor=white&label=)
+![HTML5](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&label=)
+![CSS3](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&label=)
+![Adobe Photoshop](https://img.shields.io/badge/-?style=for-the-badge&logo=adobephotoshop&logoColor=white&label=)
+
 
 
 
