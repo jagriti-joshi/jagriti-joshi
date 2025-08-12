@@ -4,10 +4,10 @@
  
 
  
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/39877917-8a53-44ee-9807-ee2e2e794dc1" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img width="213" height="236" alt="image" src="https://github.com/user-attachments/assets/c685bfe1-d78e-4001-a1d0-c19ba6e9da21" />
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9c8dde7c-3c13-4f23-9966-a565baa1d65a" />
 
 
 <!--
